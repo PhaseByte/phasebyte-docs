@@ -1,0 +1,47 @@
+site_name: PhaseByte Knowledge Base
+theme:
+  name: material
+  features:
+#    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - contant.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: blue
+      accent: teal
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: blue
+      accent: teal
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+  - tables
+
+plugins:
+# - social
+
+extra:
+  social:
+    - icon: fontawesome/brands/shopify
+      link: https://phasebyte.com
+
+
+copyright:
+  "2024 PhaseByte Gaming Ltd."
