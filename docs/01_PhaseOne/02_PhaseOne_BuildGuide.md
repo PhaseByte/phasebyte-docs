@@ -12,8 +12,8 @@ First things first, make sure your kit has everything you need. Your kit should 
 
 - Top Case with a LED diffuser
 - Bottom Case with an installed daughter board and forged carbon fiber shields
-- PhasByte wave pouch with silicone gaskets (12) and feet (4)
-- PCB (Printed Ciruit Board)
+- PhaseByte wave pouch with silicone gaskets (12) and feet (4)
+- PCB (Printed Circuit Board)
 - Forged Carbon Plate
 
 Optionally, your kit may also include:
@@ -37,13 +37,13 @@ The last thing you want is to build a keyboard with a bad socket. We’ve tested
 1. Grab some tweezers or some wire.
 2. Plug in the PCB to the daughter board with the preinstalled ribbon cable. To do so, first unlatch the header. Make sure the blue part of the cable faces towards you and the gold part faces towards the PCB. When inserted, it should be past this jumper. Once inserted, just lock the header back in place.
 
-![PhaseOneLayout](BuildGuide-4.jpg)
-![PhaseOneLayout](BuildGuide-5.jpg)
-![PhaseOneLayout](BuildGuide-6.jpg)
+    ![PhaseOneLayout](BuildGuide-4.jpg)
+    ![PhaseOneLayout](BuildGuide-5.jpg)
+    ![PhaseOneLayout](BuildGuide-6.jpg)
 
-Grab a USB-C cable and plug in the board. 
-3. Navigate to https://usevia.app/test and turn on key sounds for a little more fun.
-4. With the tweezer or jumper of your choice, connect the two metal contacts for each switch together. Note, the FN key won’t light up as it’s a ZMK layer key. If your board looks like this, you’re good to go.
+3. Grab a USB-C cable and plug in the board. 
+4. Navigate to https://usevia.app/test and turn on key sounds for a little more fun.
+5. With the tweezer or jumper of your choice, connect the two metal contacts for each switch together. Note, the FN key won’t light up as it’s a ZMK layer key. If your board looks like this, you’re good to go.
 
 ![PhaseOneLayout](BuildGuide-7.jpg)
 ![PhaseOneLayout](BuildGuide-8.jpg)
@@ -76,7 +76,7 @@ To install them, place the board with the socket side down (the side with the sc
 
 ### 6. Foam and Plate
 
-Once the stabilizers are installed you can place the optional foam on top and the plate. Note, on some foam kits we noticed that the stabilizer bar contacts the foam. If this issue causes fit issues with your build, please cut away the small bit of foam over the stabilizers. 
+Once the stabilizers are installed you can place the optional foam on top and then the plate. Note, on some foam kits we noticed that the stabilizer bar contacts the foam. If this issue causes fit issues with your build, please cut away the small bit of foam over the stabilizers. 
 
 ![PhaseOneLayout](BuildGuide-14.jpg)
 
