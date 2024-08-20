@@ -43,10 +43,14 @@ The last thing you want is to build a keyboard with a bad socket. We’ve tested
 
 3. Grab a USB-C cable and plug in the board. 
 4. Navigate to https://usevia.app/test and turn on key sounds for a little more fun.
-5. With the tweezer or jumper of your choice, connect the two metal contacts for each switch together. Note, the FN key won’t light up as it’s a ZMK layer key. If your board looks like this, you’re good to go.
+5. With the tweezer or jumper of your choice, connect the two metal contacts for each switch together. 
 
-![PhaseOneLayout](BuildGuide-7.jpg)
-![PhaseOneLayout](BuildGuide-8.jpg)
+    ![PhaseOneLayout](BuildGuide-7.jpg)
+    ![PhaseOneLayout](BuildGuide-8.jpg)
+
+6. Note, the FN key won’t light up as it’s a ZMK layer key. If your board looks like this, you’re good to go.
+
+    ![PhaseOneLayout](BuildGuide-21.jpg)
 
 ### 4. Installing the Feet and Gaskets
 
