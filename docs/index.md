@@ -12,7 +12,7 @@ Thanks for visiting our docs. You'll find everything you need to know about Phas
 
     Everything you need to know about the PhaseOne.
 
-    [:octicons-arrow-right-24: Getting started](01_PhaseOne/01_PhaseOne_Functionality.md)
+    [:octicons-arrow-right-24: Getting started](01_PhaseOne/00_PhaseOne_General.md)
 
 -   :fontawesome-brands-markdown:{ .lg .middle } __02 // Deskmats__
 
