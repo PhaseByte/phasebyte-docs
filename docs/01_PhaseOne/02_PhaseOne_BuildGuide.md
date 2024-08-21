@@ -2,7 +2,11 @@
 
 ## Overview
 
-Here you'll find a written guide on how to build your PhaseOne. We are currently working on a video build guide which will be out by August 22nd, 2024. 
+Here you'll find a video guide and a written guide on how to build your PhaseOne. 
+
+## Video Build Guide
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N37hqqpIqHk?si=-P5PL2rmdydoiSrf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Build Guide
 
