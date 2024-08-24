@@ -12,7 +12,7 @@ Thanks for visiting our docs. You'll find everything you need to know about Phas
 
     Everything you need to know about the PhaseOne.
 
-    [:octicons-arrow-right-24: Getting started](01_PhaseOne/00_PhaseOne_General.md)
+    [:octicons-arrow-right-24: Lets go!](01_PhaseOne/00_PhaseOne_General.md)
 
 -   :fontawesome-brands-markdown:{ .lg .middle } __02 // Deskmats__
 
@@ -20,7 +20,7 @@ Thanks for visiting our docs. You'll find everything you need to know about Phas
 
     Taking care of your PhaseByte deskmats.
 
-    [:octicons-arrow-right-24: Lets go](02_Deskmats/02_Deskmats.md)
+    [:octicons-arrow-right-24: Lets go!](02_Deskmats/02_Deskmats.md)
 
 
 

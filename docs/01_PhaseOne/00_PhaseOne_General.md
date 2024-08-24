@@ -18,6 +18,22 @@ The PhaseOne is the first keyboard PhaseByte made. The first batch of produced b
 
     ---
 
-    Shortcuts, features, and more.
+    Bluetooth, LED Bar Controls and more.
 
-    [:octicons-arrow-right-24: Lets go](01_PhaseOne_Functionality.md)
+    [:octicons-arrow-right-24: See more](01_PhaseOne_Functionality.md)
+
+-   __Modifications__ :hammer:{ .lg .middle }
+
+    ---
+
+    What PhaseOne owners do to improve their board.
+
+    [:octicons-arrow-right-24: Lets do it](03_PhaseOne_Modifications.md)
+
+-   __Improvements & Troubleshooting__ :bulb:{ .lg .middle }
+
+    ---
+
+    Known bugs, quirks, and what to improve in later revisions.
+
+    [:octicons-arrow-right-24: We're working on](04_PhaseOne_Improvements.md)

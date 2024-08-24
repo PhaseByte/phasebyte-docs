@@ -119,6 +119,12 @@ Make sure it's an equal distance from both sides. Snap on the top case and there
 
 To open the case again, place your thumb on the left alt key and left arrow key. Push down with your thumbs and lift with your fingers.
 
+## Troubleshooting
+
+The first thing to check is your USB-C cable. It is a known issue that many cable makers using different specifications for how close the protective jacket or heat shrink is to the end of the metal connector on the cable. Potentially, this stops the cable from making a good connection with the board. You can fix this issue by trying a different cable, or getting a cable specifically for mechanical keyboards. 
+
+For more information please check our [Improvements Tab](04_PhaseOne_Improvements.md) or contact us, we'd love to help!
+
 
 
 
