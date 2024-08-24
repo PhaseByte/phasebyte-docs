@@ -2,14 +2,14 @@
 
 ## Known Issues
 
-If you cannot find an issue you are having on this list, please let us know so we can make future PhaseOnes even better. Adn through software, maybe even the one you already have!
+If you cannot find an issue you are having on this list, please let us know so we can make future PhaseOnes even better. And through software, maybe even the one you already have!
 
 ### Mechanical
 
  Issue      | Fix                          |
 | :---------- | :----------------------------------- |
 | Although very strong, the magnets cannot compress the case fully closed when using Poron gaskets on the top and bottom.| Currently, you can get the same type feel by using the Silicon gaskets on the top and the softer Poron gaskets on the bottom.|
-| Some cables do not fit. Known cables that do not work: Apple USB-C to USB-C, Glorious Gaming Cable | Try various USB-C cables or use a cable meant for mechanical keyboards from providers like Onyx Cables or Dispatch. We are currently working on a tech flex, affordable cable we can offer with the PhaseOne.|
+| Some cables do not fit. Known cables that do not work: Apple USB-C to USB-C, Glorious Gaming Cable. | Try various USB-C cables or use a cable meant for mechanical keyboards from providers like Onyx Cables or Dispatch. We are currently working on a tech flex, affordable cable we can offer with the PhaseOne.|
 
 
 ### Electrical
@@ -23,4 +23,4 @@ If you cannot find an issue you are having on this list, please let us know so w
 
  Issue      | Fix                          |
 | :---------- | :----------------------------------- |
-| Windows machines using the specific Intel AX1000 Bluetooth Chip have intermittent connectivity issues like disconnecting. | Unfortunately, this issue cannot be fixed with the PhaseOne.  |
+| Windows machines using the specific Intel AX200 Bluetooth Chip have intermittent connectivity issues like disconnecting. | Unfortunately, this issue cannot be fixed with the PhaseOne.  |
