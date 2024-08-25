@@ -18,8 +18,8 @@ Batch 1 of the Founders Edition PhaseOnes were released late July 2024. So far, 
 UNIT ID      | STATUS                           | BUILD     | PHOTOS |
 | :---------:| :------------------------------- | :---------| :------|
 | `1/50`     | MISSING                          |
-| `2/50`     | MISSING                          |
-| `3/50`     | **✅ FOUND**                     |- Lavenders <br> - GMK Wasabi <br> - Foam Kit | <details><summary>Click to view</summary>![PhaseOneLayout](_01_03-1.jpg) <br>![PhaseOneLayout](_01_03-2.jpg)</details> | 
+| `2/50`     | **✅ FOUND**                     |- Lavenders <br> - GMK Wasabi <br> - Foam Kit | <details><summary>Click to view</summary>![PhaseOneLayout](_01_03-1.jpg) <br>![PhaseOneLayout](_01_03-2.jpg)</details> | 
+| `3/50`     | MISSING                          |
 | `4/50`     | MISSING                          |
 | `5/50`     | MISSING                          |
 | `6/50`     | MISSING                          |
