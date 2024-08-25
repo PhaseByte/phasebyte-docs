@@ -37,3 +37,13 @@ The PhaseOne is the first keyboard PhaseByte made. The first batch of produced b
     Known bugs, quirks, and what to improve in later revisions.
 
     [:octicons-arrow-right-24: We're working on](04_PhaseOne_Improvements.md)
+
+</div class="grid cards" markdown>
+
+
+---
+
+Batch 1 of the Founders Edition PhaseOnes were released late July 2024. Only a few boards have been spotted... so far.
+
+[PhaseOne Tracker ::satellite_orbital:](PhaseOne_Tracker/50_PhaseOne_Tracker.md){ .md-button }
+
