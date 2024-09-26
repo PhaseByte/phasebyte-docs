@@ -44,7 +44,7 @@ The PhaseOne is the first keyboard PhaseByte made. The first batch of produced b
 
     How to and newest updates to PhaseOne firmware.
 
-    [:octicons-arrow-right-24: We're working on](05_PhaseOne_Firmware.md)
+    [:octicons-arrow-right-24: Level up](05_PhaseOne_Firmware.md)
 
 </div class="grid cards" markdown>
 
