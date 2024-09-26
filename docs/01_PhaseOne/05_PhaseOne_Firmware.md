@@ -15,7 +15,8 @@ To install a new update, first download the firmware file from our Google Drive 
 Once you have the file, follow these steps:
 
 1. Remove your space bar from the PhaseOne. 
-2. Underneath and through the plate, you'll find a little button on the PCB. This is the reset button. 
+2. Underneath and through the plate, you'll find a little button on the PCB. This is the reset button.
+    ![ResetButtton](Firmware-01.jpg)
 3. Plug in your PhaseOne to your computer using a USB-C cable. 
 4. Press the reset button twice. You should see a folder pop up on your computer titled PhaseOne.
 5. This is the boot loader where you can drag and drop firmware updates.
@@ -34,6 +35,6 @@ To remap your keys, use the following setups:
 4. To unlock your keyboard, use (`Fn + Escape`). 
 5. Using your mouse you can click on a key and update what the key should do on press. 
 6. Use the button in the top right to push your changes.
-7. Enjoy. 
+7. Enjoy.
 
 Please note, ZMK Studio is in alpha. The PhaseOne is one of the first board to have access. 
