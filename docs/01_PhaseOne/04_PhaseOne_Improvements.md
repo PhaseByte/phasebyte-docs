@@ -18,6 +18,7 @@ If you cannot find an issue you are having on this list, please let us know so w
 | :---------- | :----------------------------------- |
 | The cable connecting the daughter board to the main board is twisted when installed correctly. | This does not affect performance, and the ribbon cable is designed to withstand folding and bending. However, we will make sure future iterations utilize a new daughter board with a corrected orientation header. |
 | Green light when unplugging the USB-C cable from the PhaseOne. | We are still determining the cause of this bug, but it can be quickly fixed by using the LED controls to toggle the LED on/off. (`Fn + F1`) |
+| The keyboard freezes or only works using bluetooth. | We have found that in most cases the cable connecting the daughter board is either improperly seated into the main board or has come loose. By opening the case and reseating the flat cable, the issue is resolved. |
 
 ### Wireless
 
