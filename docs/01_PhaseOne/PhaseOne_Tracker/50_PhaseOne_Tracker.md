@@ -24,7 +24,7 @@ UNIT ID      | STATUS                           | BUILD     | PHOTOS |
 | `5/50`     | MISSING                          |
 | `6/50`     | MISSING                          |
 | `7/50`     | MISSING                          |
-| `8/50`     | MISSING                          |
+| `8/50`     | **✅ FOUND**                     |- Silent Alpaca V2 <br> - unknown <br> - unknown | <details><summary>Click to view</summary>![PhaseOneLayout](_08_01.jpg) <br>![PhaseOneLayout](_08_02.jpg)![PhaseOneLayout](_08_03.jpg) <br>![PhaseOneLayout](_08_04.jpg)</details> |
 | `9/50`     | MISSING                          |
 | `10/50`     | MISSING                          |
 | `11/50`     | MISSING                          |
@@ -45,7 +45,7 @@ UNIT ID      | STATUS                           | BUILD     | PHOTOS |
 | `26/50`     | MISSING                          |
 | `27/50`     | MISSING                          |
 | `28/50`     | MISSING                          |
-| `29/50`     | MISSING                          |
+| `29/50`     | **✅ FOUND**                     |- Gateron Oil Kings V2 (F ROW) & KTT HaluHalo V2 Linears <br> - ePBT Dreamscape <br> - Foam Kit | <details><summary>Click to view</summary>![PhaseOneLayout](_29_01.jpg) <br>![PhaseOneLayout](_29_02.jpg)![PhaseOneLayout](_29_03.jpg) <br>![PhaseOneLayout](_29_04.jpg)</details> | 
 | `30/50`     | MISSING                          |
 | `31/50`     | MISSING                          |
 | `32/50`     | MISSING                          |
@@ -64,6 +64,6 @@ UNIT ID      | STATUS                           | BUILD     | PHOTOS |
 | `45/50`     | MISSING                          |
 | `46/50`     | MISSING                          |
 | `47/50`     | MISSING                          |
-| `48/50`     | MISSING                          |
+| `48/50`     | **✅ FOUND**                     |- ACE TTC V2 Lineara <br> - Kapco Axolotl <br> - Foam Kit | <details><summary>Click to view</summary>![PhaseOneLayout](_48_01.jpg) <br>![PhaseOneLayout](_48_02.jpg)</details> | 
 | `49/50`     | MISSING                          |
 | `50/50`     | MISSING                          |
